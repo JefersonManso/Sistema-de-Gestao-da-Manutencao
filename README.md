@@ -142,7 +142,7 @@
 
 ---
 
-## Link do projeto: https://ai.studio/apps/drive/1FJHEwti3KUdiidfPpXZ0k4G6M7jE8dwt
+
 
 Este Agente foi desenvolvido pelo **GOOLE AI Studio**
 
